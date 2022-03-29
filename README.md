@@ -2,7 +2,7 @@
 Gửi tin nhắn bằng telegram
 
 - link demo: https://phamtienthanhcong.github.io/send_messenge_telegram/
-- Link api Post: https://telegramsendmessenge.000webhostapp.com/
+- Link api Post: https://sendmessengetelegram.000webhostapp.com/
 - method là post
 
 | id_bot | id_user | message |
