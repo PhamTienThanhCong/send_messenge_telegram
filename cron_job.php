@@ -47,7 +47,7 @@ $sell = getData('SELL');
 
 $message = "Buy: ".$buy['max']." | ".$buy['min']." | ".$buy['avg']."\nSell: ".$sell['max']." | ".$sell['min']." | ".$sell['avg'];
 
-$apiToken = "5199127246:AAHPbo0gYoGtYluKCjxdGK6Npn3KtntXZPw";
+$apiToken = "api_bot";
 $data = [
   'chat_id' => "-776134466",
   'text' => "$message"
